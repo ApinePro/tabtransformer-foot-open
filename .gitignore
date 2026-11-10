@@ -1,0 +1,62 @@
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE/editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large upstream datasets: kept in the local hand-off, not committed
+dataset/
+dataset-test/
+data/
+data-test/
+
+# Model artifacts: keep only the paper pretraining checkpoint
+checkpoints/*
+!checkpoints/tabtransformer_row_mask_pretrain.pt
+*.pt
+*.pth
+*.ckpt
+!checkpoints/tabtransformer_row_mask_pretrain.pt
+*.cbm
+
+# Generated experiment results
+kfold_results/
+vaep_kfold_results/
+*_metrics.csv
+*_fold_assignments.csv
+*_summary.csv
+*_predictions.csv
+*_predictions.csv.gz
+*_predictions.gz
+*_predictions.parquet
+similar_*.csv
+
+# Generated figures
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Derived caches are rebuilt locally and are never tracked.
+.vaep_cache/
+
+# CatBoost and embedding-analysis artifacts
+catboost_info/
+embedding_vis/
+embedding_vis_*/
+

@@ -1,0 +1,111 @@
+Academic, Educational, and Non-Commercial Research License
+Version 1.0
+
+Copyright (c) 2026 Weiran Yang
+All rights reserved.
+
+1. Scope
+
+This license applies to the source code, scripts, documentation, configuration
+files, pretrained checkpoints, model weights, and other original materials
+provided in this repository (collectively, the "Licensed Materials"), except
+for third-party materials identified in Section 7.
+
+2. Permission Grant
+
+Subject to all terms and conditions of this license, the copyright holder
+grants you a non-exclusive, worldwide, royalty-free permission to use,
+reproduce, study, evaluate, and modify the Licensed Materials solely for:
+
+  a. academic research;
+  b. education, teaching, and coursework; and
+  c. other non-commercial research activities.
+
+You may create derivative works and may redistribute the Licensed Materials or
+derivative works only when the redistribution is exclusively for the purposes
+listed above and complies with Section 3.
+
+3. Conditions
+
+Any copy or redistribution of the Licensed Materials or a derivative work must:
+
+  a. include this license and the above copyright notice;
+  b. clearly identify files or materials that you modified;
+  c. be made available only under this same license, without additional terms
+     that reduce its protections; and
+  d. preserve reasonable attribution to the copyright holder and the project.
+
+Academic publications, reports, presentations, and other research outputs that
+use the Licensed Materials must provide appropriate attribution and cite the
+paper identified in the repository README.
+
+4. Non-Commercial Restriction
+
+The Licensed Materials may not be used, in whole or in part, for any commercial
+purpose or commercial advantage without prior written permission from the
+copyright holder. Prohibited uses include, without limitation:
+
+  a. incorporation into a product or service that is sold, licensed, or
+     otherwise monetized;
+  b. operation of a paid, advertising-supported, revenue-generating, or
+     commercially advantageous hosted service, API, or software-as-a-service;
+  c. use in paid consulting, contract research, or services provided for a fee;
+  d. resale, rental, paid sublicensing, or other commercial redistribution;
+  e. use by or for a for-profit entity's internal research, product development,
+     model development, evaluation, or business operations; and
+  f. use of the pretrained checkpoint, its parameters, its representations, or
+     derivative models for commercial training, fine-tuning, deployment, or
+     evaluation.
+
+Research sponsored by, performed for, or intended primarily to benefit a
+for-profit entity requires prior written permission from the copyright holder.
+
+5. No Endorsement
+
+This license does not grant permission to use the names, trademarks, service
+marks, institutional affiliations, or identities of the copyright holder,
+authors, contributors, or affiliated institutions to endorse or promote any
+product, service, or activity.
+
+6. Commercial and Other Licensing
+
+Commercial use, or any use outside the permissions granted by this license,
+requires a separate written license from the copyright holder. Requests should
+be directed to the repository owner.
+
+7. Third-Party Materials
+
+This license does not grant rights to datasets, software dependencies, or other
+third-party materials. In particular, StatsBomb data is not licensed under this
+license and remains subject to its applicable terms and conditions. Users are
+responsible for identifying and complying with all third-party licenses and
+data-use requirements.
+
+8. Ownership and Reservation of Rights
+
+The Licensed Materials are licensed, not sold. The copyright holder retains all
+rights, title, and interest in the Licensed Materials. All rights not expressly
+granted by this license are reserved. No patent or trademark rights are granted.
+
+9. Termination
+
+Your rights under this license terminate automatically if you fail to comply
+with any term. Upon termination, you must stop using and distributing the
+Licensed Materials and destroy copies in your possession or control, except for
+copies that must be retained by law. Reinstatement requires written permission
+from the copyright holder.
+
+10. Disclaimer of Warranty
+
+THE LICENSED MATERIALS ARE PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, NON-INFRINGEMENT, OR THE ABSENCE OF
+DEFECTS OR ERRORS. YOU ASSUME ALL RISK ARISING FROM USE OF THE LICENSED MATERIALS.
+
+11. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER, AUTHORS,
+AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+WITH THE LICENSED MATERIALS OR THEIR USE.
+

@@ -1,0 +1,14 @@
+torch
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+tqdm
+pyarrow
+statsbombpy
+tab-transformer-pytorch
+einops
+catboost
+xgboost
+
